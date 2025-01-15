@@ -2,7 +2,7 @@
 
 Eu sou formado em Direito e atualmente estou estudando programação.
 
-meu linkedin é [Linbkedin](https://likedin.com.br/milone.zavoli)
+meu linkedin é [Linkedin](https://likedin.com.br/milone.zavoli)
 
 para instalar esse repositório use `git clone`
 
