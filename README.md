@@ -1,4 +1,4 @@
-# Olá eu sou o Milone
+# Olá, eu sou o Milone
 
 Eu sou formado em Direito e atualmente estou estudando programação.
 
